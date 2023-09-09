@@ -2,6 +2,8 @@
 
 This Discord chatbot integrates with the OpenAI API to provide responses based on a conversation history. The bot listens to messages in specified channels and responds to user interactions.
 
+![discordbot](screenshots/discord.png)
+
 ## Getting Started
 
 Follow these steps to set up and run the bot:
